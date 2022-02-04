@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         int x = new Random().nextInt(11);
 
-        texto.setText("Número: " + x + "é o vencedor");
+        texto.setText("" + x);
 
     }
 }
