@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Projeto Layout"
-        android:textColor="#FC010309"
+        android:textColor="#FF9800"
         android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -25,6 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
         android:text="Button"
+        android:textColor="#991BE0"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
