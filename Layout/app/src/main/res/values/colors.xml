@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#673AB7</color>
     <color name="botao_cadastro">#315CE1</color>
+    <color name="corFundo">#A5BDE7</color>
 </resources>
