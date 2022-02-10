@@ -33,14 +33,36 @@
         tools:layout_editor_absoluteX="294dp"
         tools:layout_editor_absoluteY="278dp" />
 
-    <EditText
-        android:id="@+id/editText2"
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="357dp"
+        android:layout_height="151dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipicing elit. Curabitur pretium massa tellus vitae pharetra ipsium suspicit eu, Aliquam solicitudin arcu sed difnissim cursus, tuupis enim eleifend lacus saiesn nec velit Lorem ipsum dolor dit amet consectetur adipiscing elit. Curabitur pretium masssa tellus, vitae pharetra ipsum suspicit eu. Aliquam sollicitudin, arcu sed dignissim cursus, turpis enim eleifend lacus, ac dapilbus, ac dapibus diam sapien nec velit."
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="327dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="151dp"
+        android:layout_height="22dp"
+        android:text="Harry dos Santos"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="681dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="93dp"
+        android:layout_height="43dp"
+        android:text="Anterior"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="661dp" />
+
+    <Button
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:gravity="start|top"
-        android:inputType="textMultiLine"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="321dp" />
+        android:text="próximo"
+        tools:layout_editor_absoluteX="285dp"
+        tools:layout_editor_absoluteY="656dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
