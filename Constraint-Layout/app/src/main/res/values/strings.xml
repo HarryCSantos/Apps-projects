@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Constraint Layout</string>
     <string name="botao_futebol">Futebol</string>
+    <string name="text">text</string>
 </resources>
