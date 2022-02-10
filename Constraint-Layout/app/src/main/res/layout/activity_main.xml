@@ -47,4 +47,36 @@
         android:text="Lorem ipsum dolor sit amet, consectetur adipicing elit. Curabitur pretium massa tellus vitae pharetra ipsium suspicit eu, Aliquam solicitudin arcu sed difnissim cursus, tuupis enim eleifend lacus saiesn nec velit Lorem ipsum dolor dit amet consectetur adipiscing elit. Curabitur pretium masssa tellus, vitae pharetra ipsum suspicit eu. Aliquam sollicitudin, arcu sed dignissim cursus, turpis enim eleifend lacus, ac dapibus diam sapiam nec velit."
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="28dp"
+        android:text="próximo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="22dp"
+        android:layout_marginRight="22dp"
+        android:text="Anterior"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button3"
+        app:layout_constraintEnd_toStartOf="@+id/button3" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="23dp"
+        android:layout_marginLeft="23dp"
+        android:layout_marginBottom="41dp"
+        android:text="Harry C. Santos"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
