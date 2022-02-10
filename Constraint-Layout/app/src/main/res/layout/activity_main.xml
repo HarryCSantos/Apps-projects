@@ -7,63 +7,23 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="388dp"
-        android:layout_height="756dp"
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:scaleType="fitStart"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/celular" />
 
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="229dp"
-        android:layout_height="33dp"
-        android:text="Aprenda sobre edição de imagens            "
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="299dp"
+        android:text="Aprenda sobre edição de imagens"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="278dp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="81dp"
-        android:layout_height="16dp"
-        android:text="10/05/2030"
-        tools:layout_editor_absoluteX="294dp"
-        tools:layout_editor_absoluteY="278dp" />
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="357dp"
-        android:layout_height="151dp"
-        android:text="Lorem ipsum dolor sit amet, consectetur adipicing elit. Curabitur pretium massa tellus vitae pharetra ipsium suspicit eu, Aliquam solicitudin arcu sed difnissim cursus, tuupis enim eleifend lacus saiesn nec velit Lorem ipsum dolor dit amet consectetur adipiscing elit. Curabitur pretium masssa tellus, vitae pharetra ipsum suspicit eu. Aliquam sollicitudin, arcu sed dignissim cursus, turpis enim eleifend lacus, ac dapilbus, ac dapibus diam sapien nec velit."
-        tools:layout_editor_absoluteX="18dp"
-        tools:layout_editor_absoluteY="327dp" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="151dp"
-        android:layout_height="22dp"
-        android:text="Harry dos Santos"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="668dp" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="99dp"
-        android:layout_height="51dp"
-        android:text="Anterior"
-        tools:layout_editor_absoluteX="178dp"
-        tools:layout_editor_absoluteY="655dp" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="95dp"
-        android:layout_height="51dp"
-        android:text="próximo"
-        tools:layout_editor_absoluteX="287dp"
-        tools:layout_editor_absoluteY="655dp" />
-
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
