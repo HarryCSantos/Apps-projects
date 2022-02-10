@@ -46,23 +46,23 @@
         android:layout_width="151dp"
         android:layout_height="22dp"
         android:text="Harry dos Santos"
-        tools:layout_editor_absoluteX="17dp"
-        tools:layout_editor_absoluteY="681dp" />
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="668dp" />
 
     <Button
         android:id="@+id/button"
-        android:layout_width="93dp"
-        android:layout_height="43dp"
+        android:layout_width="99dp"
+        android:layout_height="51dp"
         android:text="Anterior"
-        tools:layout_editor_absoluteX="180dp"
-        tools:layout_editor_absoluteY="661dp" />
+        tools:layout_editor_absoluteX="178dp"
+        tools:layout_editor_absoluteY="655dp" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="95dp"
+        android:layout_height="51dp"
         android:text="próximo"
-        tools:layout_editor_absoluteX="285dp"
-        tools:layout_editor_absoluteY="656dp" />
+        tools:layout_editor_absoluteX="287dp"
+        tools:layout_editor_absoluteY="655dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
