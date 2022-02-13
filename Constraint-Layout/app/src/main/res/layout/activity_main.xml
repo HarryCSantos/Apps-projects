@@ -25,6 +25,7 @@
         android:layout_marginRight="16dp"
         android:text="10/05/2030"
         android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
@@ -42,8 +43,8 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="368dp"
-        android:layout_height="144dp"
+        android:layout_width="379dp"
+        android:layout_height="118dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="32dp"
@@ -51,6 +52,7 @@
         android:layout_marginRight="16dp"
         android:text='"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, felis ut adipiscing.'
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView2" />
 
