@@ -11,6 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:drawableTop="@drawable/ic_keyboard_arrow_down_black_24dp"
         android:text="House of Cards"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="144dp"
