@@ -4,4 +4,7 @@
     <string name="menu_volume">Menu Volume</string>
     <string name="menu_avaliações">Menu avaliação</string>
     <string name="menu_ep">Menu de episódios</string>
+    <string name="houseofcards">House of Cards</string>
+    <string name="ep">episódios</string>
+    <string name="ep_n">episodios_n</string>
 </resources>
