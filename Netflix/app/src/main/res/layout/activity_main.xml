@@ -145,4 +145,20 @@
         app:srcCompat="@drawable/ic_voltar_48dp"
         tools:layout_editor_absoluteX="65dp"
         tools:layout_editor_absoluteY="514dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_executar_48dp"
+        tools:layout_editor_absoluteX="181dp"
+        tools:layout_editor_absoluteY="514dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_pause_48dp"
+        tools:layout_editor_absoluteX="258dp"
+        tools:layout_editor_absoluteY="517dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
