@@ -40,6 +40,6 @@
         android:text="Button"
         app:layout_constraintBottom_toTopOf="@+id/button3"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_chainStyle="spread"
+        app:layout_constraintVertical_chainStyle="spread_inside"
         tools:layout_editor_absoluteX="321dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
