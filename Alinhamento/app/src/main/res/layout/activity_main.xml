@@ -30,10 +30,14 @@
         android:layout_height="36dp"
         android:layout_marginStart="160dp"
         android:layout_marginLeft="160dp"
+        android:layout_marginTop="167dp"
+        android:layout_marginEnd="483dp"
+        android:layout_marginRight="483dp"
         android:background="@android:color/holo_blue_bright"
         android:text="Harry"
         android:textColor="#0A11E2"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="167dp" />
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
