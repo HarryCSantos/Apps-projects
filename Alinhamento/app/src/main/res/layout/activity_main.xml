@@ -39,7 +39,7 @@
         android:layout_height="39dp"
         android:background="@android:color/holo_orange_light"
         android:paddingBottom="20dp"
-        android:text="Detalhes"
+        android:text="Harry Santos"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
