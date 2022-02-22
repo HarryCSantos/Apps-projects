@@ -14,7 +14,6 @@
         android:layout_height="350dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="4dp"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:scaleType="centerInside"
@@ -28,10 +27,12 @@
         android:id="@+id/button"
         android:layout_width="88dp"
         android:layout_height="36dp"
+        android:layout_marginTop="171dp"
         android:background="@android:color/holo_blue_bright"
         android:text="Harry"
         android:textColor="#0A11E2"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="171dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
