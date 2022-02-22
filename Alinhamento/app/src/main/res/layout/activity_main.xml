@@ -10,11 +10,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="350dp"
+        android:layout_width="409dp"
         android:layout_height="350dp"
         android:scaleType="centerInside"
         app:srcCompat="@drawable/android"
-        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="191dp" />
 
     <TextView
