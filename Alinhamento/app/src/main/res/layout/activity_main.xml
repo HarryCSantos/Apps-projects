@@ -10,10 +10,9 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="593dp"
         android:text="Button"
-        app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="161dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="90dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
