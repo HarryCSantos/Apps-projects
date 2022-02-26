@@ -25,6 +25,6 @@
         android:layout_height="wrap_content"
         android:text="Harry  Conceição dos Santos"
         android:textColor="@android:color/white"
-        tools:layout_editor_absoluteX="254dp"
+        tools:layout_editor_absoluteX="228dp"
         tools:layout_editor_absoluteY="92dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
