@@ -30,4 +30,13 @@
         app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
         app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Detalhes"
+        android:textColor="@android:color/white"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="126dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
