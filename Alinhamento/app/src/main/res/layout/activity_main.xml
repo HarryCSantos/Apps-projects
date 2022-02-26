@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:padding="40dp"
     tools:context=".MainActivity">
 
     <TextView
@@ -23,5 +24,5 @@
         android:id="@+id/button9"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Logar" />
 </LinearLayout>
