@@ -39,6 +39,7 @@
         android:padding="20dp"
         android:text="Detalhes"
         android:textColor="@android:color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         tools:layout_editor_absoluteX="42dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
