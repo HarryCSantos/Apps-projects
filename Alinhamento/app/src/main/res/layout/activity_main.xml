@@ -6,25 +6,4 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     tools:layout_editor_absoluteX="0dp"
-    tools:layout_editor_absoluteY="11dp">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Harry  Conceição dos Santos"
-        android:textColor="@android:color/white"
-        tools:layout_editor_absoluteX="204dp"
-        tools:layout_editor_absoluteY="91dp" />
-
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@android:color/holo_purple"
-        android:padding="20dp"
-        android:text="Detalhes"
-        android:textColor="@android:color/white"
-        tools:layout_editor_absoluteX="24dp"
-        tools:layout_editor_absoluteY="170dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:layout_editor_absoluteY="11dp"/>
