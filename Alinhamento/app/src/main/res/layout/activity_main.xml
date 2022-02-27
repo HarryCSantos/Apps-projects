@@ -33,4 +33,12 @@
         android:layout_column="2"
         android:scaleType="centerCrop"
         app:srcCompat="@drawable/imagem3" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="3"
+        app:srcCompat="@drawable/imagem4" />
 </GridLayout>
