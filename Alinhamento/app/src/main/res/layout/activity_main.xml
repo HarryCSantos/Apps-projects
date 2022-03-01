@@ -71,7 +71,7 @@
     <ImageView
         android:id="@+id/imageView11"
         android:layout_width="87dp"
-        android:layout_height="87"
+        android:layout_height="87dp"
         android:layout_row="1"
         android:layout_column="2"
         android:padding="5dp"
