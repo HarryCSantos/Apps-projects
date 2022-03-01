@@ -74,4 +74,13 @@
         android:layout_column="2"
         android:scaleType="centerCrop"
         app:srcCompat="@drawable/image8" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="87dp"
+        android:layout_height="87dp"
+        android:layout_row="1"
+        android:layout_column="3"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/image7" />
 </GridLayout>
